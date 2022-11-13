@@ -11,7 +11,7 @@
               <p>
   
                <b>
-                   <font color="red">Application Version 1.1
+                   <font color="red">Application Version 1.2
                  </b>
                    </font>
               </p>
