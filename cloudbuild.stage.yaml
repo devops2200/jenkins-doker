@@ -30,7 +30,7 @@ images: # Display the image in the build results - Build Artifacts
 substitutions:
     _SERVICE_IMAGE    : us-central1-docker.pkg.dev/${PROJECT_ID}/${_DOCKER_REGISTRY}/${_DOCKER_IMAGENAME}:${SHORT_SHA}
     _SERVICE_REGION   : us-central1
-    _SERVICE_PROJECT  : Stage
+    _SERVICE_PROJECT  : stage-370112
     _SERVICE_NAME     : docker-app-stage
     _DOCKER_REGISTRY  : docker-repo
     _DOCKER_IMAGENAME : app-staging
